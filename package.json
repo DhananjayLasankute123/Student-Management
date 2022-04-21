@@ -1,0 +1,30 @@
+{
+  "name": "student-management",
+  "version": "1.0.0",
+  "description": "Assignment For Impact App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "mysql",
+    "rest",
+    "api"
+  ],
+  "author": "Dhananjay Ramesh Lasankute",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "express-winston": "^4.2.0",
+    "fast-csv": "^4.3.6",
+    "multer": "^1.4.4",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.19.0",
+    "winston": "^3.7.2"
+  }
+}
